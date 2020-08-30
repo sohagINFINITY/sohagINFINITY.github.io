@@ -1,3 +1,62 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: aliceblue;
+}
+.banner-column{
+    background-color: darkgrey;
+}
+.navbar-container{
+    top: 0;
+    background-color: slateblue;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: steelblue;
+}
+.education-container{
+    background-color: thistle;
+}
+.bg-redtype{
+    background-color: salmon;
+}
+.bg-redtype:hover{
+    color: black!important;
+}
+.redtype-color{
+    color: salmon;
+}
+.circle{
+    background-color: salmon;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: steelblue;
+}
+.form-container{
+    background-color: dimgray;
+}
+
+.inner-form{
+    background-color: dimgrey;
+}
+.footer{
+    background-color: cornflowerblue;
+}
+.Circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color:cornflowerblue ;
+}
+.Circle:hover{
+    background-color:lightgray;
+}
